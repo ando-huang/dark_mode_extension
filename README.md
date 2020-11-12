@@ -1,1 +1,3 @@
-# Extension for rendering dark mode on webpages
+# Dark mode extension
+
+changes the background of a page to a dark grey
